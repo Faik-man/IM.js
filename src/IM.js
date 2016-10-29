@@ -58,7 +58,7 @@
 		 */
 			aCanvas = [],
 		/**
-		 * fpLoop is a method that will save the asynchronous or not loop type
+		 * fpLoop метод, который будет сохранять асинхронный тип цикла или нет
 		 * @private
 		 * @type Function
 		 */
