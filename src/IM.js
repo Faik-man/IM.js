@@ -330,7 +330,7 @@
 		return nMinPercentage;
 	};
 	/**
-	 * Compare is the method that change the behaviour if it's needed to create canvas or not.
+	 * Compare - это метод, который изменяет поведение, если необходимо создать холст или нет.
 	 * @member IM.prototype
 	 * @param oContainer / aCanvas
 	 * @param aElements / fpSuccess
