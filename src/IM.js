@@ -113,7 +113,7 @@
 	}
 
 	/**
-	 * compare is the function that starts the comparing of image data.
+	 * compare - это функция, которая начинает сравнение данных изображения..
 	 * @param aCanvas {Array} Canvas items to execute the compare of image data.
 	 * @param fpSuccess {Function} Callback to execute if all the images are equals in pixel level.
 	 * @param fpFail {Function} Callback to execute if any of the images is different in pixel level.
@@ -226,7 +226,7 @@
 	}
 
 	/**
-	 * createAndCompare creates canvas in oContainer and adding images to these canvas, then compare it
+	 * createAndCompare создает холст (canvas) в oContainer и добавляет изображения к этим холстам, а затем сравнивает их
 	 * @private
 	 * @param oContainer {Object} Dom element that will contain all the canvas
 	 * @param aImages {Array} Array of objects that will represent images (
